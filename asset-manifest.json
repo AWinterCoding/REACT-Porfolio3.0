@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio3.0/static/css/main.b7a1c657.css",
+    "main.js": "/react-portfolio3.0/static/js/main.6456a423.js",
+    "static/media/weatherapp.png": "/react-portfolio3.0/static/media/weatherapp.35ad79ae044490bd252e.png",
+    "static/media/projectunited.png": "/react-portfolio3.0/static/media/projectunited.f905d5056466e8f234c0.png",
+    "static/media/programmingblog.png": "/react-portfolio3.0/static/media/programmingblog.9229d6e3f6d7727b655e.png",
+    "static/media/readme.png": "/react-portfolio3.0/static/media/readme.f9f65524a7a5d2c0a065.png",
+    "static/media/autopasswordgenerator.png": "/react-portfolio3.0/static/media/autopasswordgenerator.79f0ca46731d63a34744.png",
+    "static/media/Resume.pdf": "/react-portfolio3.0/static/media/Resume.4ab70ffb90c759c62d2f.pdf",
+    "static/media/projecthomeroom.png": "/react-portfolio3.0/static/media/projecthomeroom.78af0df768c559b4105a.png",
+    "static/media/CherryBlossom.jpeg": "/react-portfolio3.0/static/media/CherryBlossom.fb994e4532e92e5583b6.jpeg",
+    "static/media/profile.jpg": "/react-portfolio3.0/static/media/profile.b082497581ad848ad8c8.jpg",
+    "index.html": "/react-portfolio3.0/index.html",
+    "main.b7a1c657.css.map": "/react-portfolio3.0/static/css/main.b7a1c657.css.map",
+    "main.6456a423.js.map": "/react-portfolio3.0/static/js/main.6456a423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a1c657.css",
+    "static/js/main.6456a423.js"
+  ]
+}
