@@ -14,7 +14,7 @@ function App() {
       {/* Okay so this is the routing that tells the page what element to render */}
     <BrowserRouter basename={window.location.pathname || ""}>
   <Routes>
-    <Route index element={<AboutMe></AboutMe>}></Route>
+    <Route path= "/" index element={<AboutMe></AboutMe>}></Route>
     <Route path='/aboutme' element={<AboutMe></AboutMe>}></Route>
     <Route path='/portfolio'element={<Portfolio></Portfolio>}></Route>
     <Route path='/resume' element={<Resume></Resume>}></Route>
