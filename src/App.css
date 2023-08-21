@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Concert+One&display=swap');
+
+h2{
+    color:#fc889e;
+    padding: 16px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family:  'Cherry Bomb One', cursive;
+    font-size: 36px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    background-color: #D14D72;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a {
+    padding: 16px 20px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    background-color: #D14D72;
+    color: #FEF2F4;
+    font-size: 24px;
+    font-family: 'Cherry Bomb One', cursive;
+}
+li a:hover{
+    background-color: #FEF2F4;
+    color: #D14D72;
+}
+.container{
+    background-color: #FCC8D1;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    width: 90%;
+    border-radius: 20px;
+    height: 88%;
+}
+*{color: #fc889e;
+font-family: 'Concert One', cursive;
+font-size:20px;}
+body{
+    background-image: url("./resources/CherryBlossom.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.background{
+    background-color: #D14D72;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    /* height:800px; */
+    padding: 10px;
+    border-radius: 25px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size:26px;
+}
+.activity{
+    color: #FEF2F4;
+    float: none;
+    width: 200px;
+    padding-left: 40px;
+}
+.activites{
+    width: 250px;
+    padding: 10px;
+    border-radius: 15px;
+    border-color: #FEF2F4;
+    border-style:double;
+    border-width: 10px;
+}
+footer{
+    margin-top: 10px;
+}
+footer a{
+    color: #fc889e;
+    margin: 10%;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #D14D72;
+}
+.proficiency{
+    color: #FEF2F4;
+    float: none;
+    padding: 10px 20px;
+}
+.proficiencies{
+    border-radius: 20px;
+    width: 200px;
+    padding: 5px;
+    border-style: double;
+    border-width:10px;
+    border-color: #FEF2F4;
+    margin: 0px;
+}
+#bottom{
+    margin-bottom: 80px;
+}
+.contact{
+    width: 300px;
+    margin: auto;
+}
+.contact label{
+    font-size: 24px;
+}
+.contact input{
+    margin: 10px;
+}
+#message{
+    width: 300px;
+    padding-bottom: 300px;
+}
+#submit{
+    margin-top: 15px;
+    background-color: #FEF2F4;
+    border-style: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+#submit:hover{
+    cursor: pointer;
+        color: #FEF2F4;
+        background-color: #fc889e;
+        box-shadow: 0 5px 15px rgba(196, 119, 141, 0.4);
+}
+/* yoinked this from here: https://stackoverflow.com/questions/38377062/how-to-make-html-button-look-pressed-in-using-css
+However I do know what the code below does, just the exact values are hard to pin down */
+#submit:active {
+    background: #e5e5e5;
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+       -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+            box-shadow: inset 0px 0px 5px #c1c1c1;
+     outline: none;
+  }
+  .card{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    border-style: double;
+    border-width: 15px;
+    background-color: #FCC8D1;
+
+  }
+  .cardAnchor{
+    margin: auto;
+    width: 200px;
+    text-align: center;
+  }
+  .cardList{
+    width: 200px;
+    margin: auto;
+  }
+  .cardAnchor a{
+    background-color: #FCC8D1;
+  }
+  .cardAnchor a:hover{
+    background-color: #FCC8D1;
+    color: #fc889e;
+  }
+  #profile{
+    border-radius: 125px;
+    width: 200px;
+    margin-left: 25px;
+    border-color: #D14D72;
+    border-style: solid;
+    border-width: 10px;
+  }
+  .cardpic{
+    width: 400px;
+  }
