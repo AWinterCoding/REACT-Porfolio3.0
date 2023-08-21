@@ -6,6 +6,8 @@
 
 A portfolio to show off all my different proejcts in one central location
 
+Link to deployed application: https://awintercoding.github.io/REACT-Porfolio3.0/resume
+
 ## Table of Contents
 
 *[Installation](#installation)
