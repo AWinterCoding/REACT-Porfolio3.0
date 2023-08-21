@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.05f71572.css",
-    "main.js": "/aboutme/static/js/main.d0fe864e.js",
-    "static/media/weatherapp.png": "/aboutme/static/media/weatherapp.35ad79ae044490bd252e.png",
-    "static/media/projectunited.png": "/aboutme/static/media/projectunited.f905d5056466e8f234c0.png",
-    "static/media/programmingblog.png": "/aboutme/static/media/programmingblog.9229d6e3f6d7727b655e.png",
-    "static/media/readme.png": "/aboutme/static/media/readme.f9f65524a7a5d2c0a065.png",
-    "static/media/autopasswordgenerator.png": "/aboutme/static/media/autopasswordgenerator.79f0ca46731d63a34744.png",
-    "static/media/Resume.pdf": "/aboutme/static/media/Resume.4ab70ffb90c759c62d2f.pdf",
-    "static/media/projecthomeroom.png": "/aboutme/static/media/projecthomeroom.78af0df768c559b4105a.png",
-    "static/media/CherryBlossom.jpeg": "/aboutme/static/media/CherryBlossom.fb994e4532e92e5583b6.jpeg",
-    "static/media/profile.jpg": "/aboutme/static/media/profile.b082497581ad848ad8c8.jpg",
-    "index.html": "/aboutme/index.html",
-    "main.05f71572.css.map": "/aboutme/static/css/main.05f71572.css.map",
-    "main.d0fe864e.js.map": "/aboutme/static/js/main.d0fe864e.js.map"
+    "main.css": "/REACT-Porfolio3.0/static/css/main.6b5afd23.css",
+    "main.js": "/REACT-Porfolio3.0/static/js/main.3cba91b6.js",
+    "static/media/weatherapp.png": "/REACT-Porfolio3.0/static/media/weatherapp.35ad79ae044490bd252e.png",
+    "static/media/projectunited.png": "/REACT-Porfolio3.0/static/media/projectunited.f905d5056466e8f234c0.png",
+    "static/media/programmingblog.png": "/REACT-Porfolio3.0/static/media/programmingblog.9229d6e3f6d7727b655e.png",
+    "static/media/readme.png": "/REACT-Porfolio3.0/static/media/readme.f9f65524a7a5d2c0a065.png",
+    "static/media/autopasswordgenerator.png": "/REACT-Porfolio3.0/static/media/autopasswordgenerator.79f0ca46731d63a34744.png",
+    "static/media/Resume.pdf": "/REACT-Porfolio3.0/static/media/Resume.4ab70ffb90c759c62d2f.pdf",
+    "static/media/projecthomeroom.png": "/REACT-Porfolio3.0/static/media/projecthomeroom.78af0df768c559b4105a.png",
+    "static/media/CherryBlossom.jpeg": "/REACT-Porfolio3.0/static/media/CherryBlossom.fb994e4532e92e5583b6.jpeg",
+    "static/media/profile.jpg": "/REACT-Porfolio3.0/static/media/profile.b082497581ad848ad8c8.jpg",
+    "index.html": "/REACT-Porfolio3.0/index.html",
+    "main.6b5afd23.css.map": "/REACT-Porfolio3.0/static/css/main.6b5afd23.css.map",
+    "main.3cba91b6.js.map": "/REACT-Porfolio3.0/static/js/main.3cba91b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.05f71572.css",
-    "static/js/main.d0fe864e.js"
+    "static/css/main.6b5afd23.css",
+    "static/js/main.3cba91b6.js"
   ]
 }
